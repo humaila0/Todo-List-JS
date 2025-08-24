@@ -32,6 +32,3 @@ Edit
 - ✏️ Edit existing tasks  
 - 💾 Save tasks in Local Storage  
 - 📌 Add categories and due dates  
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
